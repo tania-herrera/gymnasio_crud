@@ -211,6 +211,7 @@ El repositorio es público. Cualquier persona puede consultar y clonar su conten
 - La persona que desarrolla no debe aprobar su propio trabajo.
 - Los Pull Requests de funcionalidades se dirigen a `develop`.
 - La integración final de `develop` en `main` debe recibir una revisión y aprobación de otra persona colaboradora. La persona responsable de la integración final realiza el merge cuando se cumplen las condiciones.
+- Los cambios que afecten a la documentación general o a los acuerdos de trabajo del equipo deben comunicarse a todos los integrantes, por ejemplo, mediante el foro del proyecto. Cuando sea conveniente, se podrá solicitar la revisión de todos, aunque no sea necesaria la aprobación de todos para integrar los cambios.
 
 ### 4.7. Mensajes de commit
 

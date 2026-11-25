@@ -23,7 +23,6 @@ Construir progresivamente un sistema para gestionar los datos del gimnasio, sus 
 - [Dependencias entre historias](docs/dependencias.md)
 - [Modelo de datos inicial](docs/modelo_datos.md)
 - [Guía de desarrollo](docs/guia_desarrollo.md)
-- [Propuesta de reparto del trabajo](docs/reparto_trabajo.md)
 
 ## Tecnologías
 
